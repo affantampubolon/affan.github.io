@@ -6,7 +6,7 @@ p{
 }
 
 #row-header {
-	background-color: #54a0ff;
+	background-color: #ffffff;
 	height: 75px;
 }
 .jumbotron{
@@ -63,7 +63,7 @@ p{
 }
 #education-area{
 	margin: 25px;
-	padding: 15px;
+	padding: 10px;
 	border-right: none; 
 	border-top: none;
 	border-left: none;
@@ -167,5 +167,6 @@ p{
 .gallery
 {
     display: inline-block;
-    margin: 20px;
+    margin: 50px;
+    padding: 35px;
 }

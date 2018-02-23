@@ -76,4 +76,12 @@ window.onload = function() {
         closeEffect: "none"
     });
 });
-   
+    $(document).ready(function(){
+        $(document).on('click', 'a[href^="#"]',function (e) {
+            e.preventDefault();
+
+            var target = this.hash;
+            var $target = $(target);
+
+        });
+    });
