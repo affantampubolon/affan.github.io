@@ -1,0 +1,171 @@
+h1 h2 h3{
+	font-family: 'Arvo', serif;
+}
+p{
+	font-family: 'Nunito', sans-serif;
+}
+
+#row-header {
+	background-color: #54a0ff;
+	height: 75px;
+}
+.jumbotron{
+	margin-bottom: 0;
+	background: url(picture/banner.jpg) center no-repeat;;
+	background-size: cover;
+}
+#button{
+	background-color: white;
+	color: #54a0ff;
+	border: none;
+	margin: 25px;
+	size: 50px;
+}
+#row-foot {
+	background-color: #54a0ff;
+	height: 75px;
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 15px; 
+}
+
+#inline li{
+	display: inline;
+	margin-left: 15px;
+    margin-right: 15px;
+}
+}
+.nav-tab{
+	margin: 10px;
+	padding: 10px;
+}
+.btn btn-default btn-lg{
+	background-color: white;
+	border-color: none;
+}
+.contact{
+	height:35px;
+}
+.lead {
+	margin: 5px;
+	padding: 5px;
+}
+.mini-desc{
+	margin:25px;
+}
+#identity-area{
+	margin: 25px;
+	padding: 20px;
+	border-right: none; 
+	border-top: none;
+	border-left: none;
+	border-bottom: 1px solid #54a0ff;
+}
+#education-area{
+	margin: 25px;
+	padding: 20px;
+	border-right: none; 
+	border-top: none;
+	border-left: none;
+	border-bottom: 1px solid #54a0ff;
+}
+#skill-content{
+	margin-top: 15px;
+	padding: 5px:;
+}
+.progress {
+	height: 35px;
+
+}
+.progress .skill {
+	font: normal 12px "Open Sans Web";
+	line-height: 35px;
+	padding: 0;
+	margin: 0 0 0 20px;
+	text-transform: uppercase;
+}
+.progress .skill .val {
+	float: right;
+	font-style: normal;
+	margin: 0 20px 0 0;
+}
+
+.progress-bar {
+	text-align: left;
+	transition-duration: 3s;
+}
+.footer {
+	background-color: white;
+	height: 25px;
+	width: 100%;
+	position: fixed;
+	bottom:0;
+}
+.footer p{
+	color: #54a0ff;
+	text-align: center;
+}
+#work li{
+	background-color: #54a0ff;
+	border-radius: 5px;
+	margin: 3px;
+}
+.nav nav-tabs{
+	width: 100%;
+	text-align: center;
+	> li {
+		float: none;
+		display: inline-block;
+	}
+}
+#collapseOne {
+	color: #54a0ff;
+}
+#collapseTwo {
+	color: #54a0ff;
+}
+#collapseThree {
+	color: #54a0ff;
+}
+#headingOne{
+	background-color: #54a0ff;
+	color: white;
+}
+#headingTwo{
+	background-color: #54a0ff;
+	color: white;
+}
+#headingThree{
+	background-color: #54a0ff;
+	color: white;
+}
+
+#Telkom{
+	border: none;
+	padding: 30px;
+	margin: 35px;
+	text-align: center;
+	
+}
+#Indosat{
+	border: none;
+	padding: 30px;
+	margin: 35px;
+	text-align: center;
+}
+#IMT{
+	border: none;
+	padding: 30px;
+	margin: 35px;
+	text-align: center;
+}
+#Intern{
+	border: none;
+	padding: 30px;
+	margin: 35px;
+}
+.gallery
+{
+    display: inline-block;
+    margin: 20px;
+}
