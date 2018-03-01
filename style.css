@@ -1,3 +1,9 @@
+h1 h2 h3{
+	font-family: 'Oswald', sans-serif;
+}
+p{
+	font-family: 'Oswald', sans-serif;
+}
 nav{
 	margin-bottom: 25px;
 	top: 0;
